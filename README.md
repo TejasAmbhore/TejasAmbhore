@@ -4,7 +4,7 @@ Hi 👋 My name is Tejas Ambhore
 Developer
 ---------
 
-I am pre-final year Undergraduate Student at IIT Kharagpur. Open Source Enthusiast, DevOps Beginner and a Melophile
+I am Second year Undergraduate Student at IIT Kharagpur. Open Source Enthusiast, DevOps Beginner and a Melophile
 
 * 🌍  I'm based in Kharagpur, West Bengal
 * 🖥️  See my portfolio at [TAA](http://tejasambhore.github.io/portfolio/)
