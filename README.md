@@ -7,7 +7,7 @@ Developer
 I am Second year Undergraduate Student at IIT Kharagpur. Open Source Enthusiast, DevOps Beginner and a Melophile
 
 * 🌍  I'm based in Kharagpur, West Bengal
-* 🖥️  See my portfolio at [TAA](http://tejasambhore.github.io/portfolio/)
+* 🖥️  See my portfolio at [TAA](https://tejasambhore.github.io/)
 * ✉️  You can contact me at [tejasam2020@gmail.com](mailto:tejasam2020@gmail.com)
 * 🧠  I'm learning DevOps
 * ⚡  I'm Batman
